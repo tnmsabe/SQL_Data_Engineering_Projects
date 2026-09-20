@@ -28,7 +28,7 @@ LIMIT 10;
 
 /*
 Here's the breakdown of the most demanded skills for data engineers:
-SQL and Python are by far the most in-demand skills, with around 29,000 job postings each - nearly double the next 
+SQL and Python are by far the most in-demand skills, with around 29,000 job postings each - nearly double the next closest skill.
 Cloud platforms round out the top skills, with AWS leading at ~18,000 postings, followed by Azure at ~14,000.
 Apache Spark completes the top 5 with nearly 13,000 postings, highlighting the importance of big data processing skills
 
